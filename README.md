@@ -16,7 +16,7 @@ Feel free to connect with me @rez23 or via [email](spartaco.amadei@outlook.it) f
 
 Joined Github **7** years ago.
 
-Since then I pushed **65**+ commits, opened **11**+ issues, submitted **0**+ pull requests, created **1**+ gists and contributed to **1**+ public repositories.
+Since then I pushed **66**+ commits, opened **11**+ issues, submitted **0**+ pull requests, created **1**+ gists and contributed to **1**+ public repositories.
 
 <hr>
 <h3 align="left">✨ Random Dev Quote::</h3>
@@ -29,7 +29,7 @@ Like My Work?
 
 <a href="https://ko-fi.com/spartacoamadei" target="_blank"><img src="assets/kofi_brandasset/support_me_on_kofi_badge_blue.png" alt="Buy Me A Coffee"  width="217px" align="" ></a>
 
-<img align="right" alt="" src="https://media.giphy.com/media/ve43TyDQ3B4me7d22z/giphy.gif" width=350/>
+<img align="right" alt="" src="https://media.giphy.com/media/ve43TyDQ3B4me7d22z/giphy.gif" width=300/>
 
 ### Talking about Personal Stuff:
 
