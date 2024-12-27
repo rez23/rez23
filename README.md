@@ -4,7 +4,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/spartaco-amadei-953880152/)
 [![Instagram Badge](https://img.shields.io/badge/GitLab%20CI-FC6D26?logo=gitlab&logoColor=fff)](https://gitlab.com/init_1)
 
-### Glad to see you here! 
+### Welcome <span class="text-left" style='display:inline-block; vertical-align:middle; text-align:left;'><img src="https://media.giphy.com/media/MYI6NK4JOGpOzOriEg/giphy.gif" width=130 /></span> !
+
 ![](https://hit.yhype.me/github/profile?user_id=30680354)
 
 I am a Full Stack Developer of many years of experience, with the firm conviction that the Open Sources will make the world better. 🚀
@@ -13,7 +14,10 @@ I'm an explorer of new tech, an avid learner, and I search to stay my skills up 
 
 Feel free to connect with me @rez23 or via [email](spartaco.amadei@outlook.it) for all things tech or just to say hello!. 🌟
 
-Joined Github **10** years ago.
+Joined Github **7** years ago.
+
+Since then I pushed **64**+ commits, opened **11**+ issues, submitted **0**+ pull requests, created **1**+ gists and contributed to **1**+ public repositories.
+
 <hr>
 <h3 align="left">✨ Random Dev Quote::</h3>
 <p align="center">
@@ -23,9 +27,9 @@ Joined Github **10** years ago.
 
 Like My Work?
 
-<a href="https://ko-fi.com/spartacoamadei" target="_blank"><img src="assets/kofi_brandasset/support_me_on_kofi_badge_blue.png" alt="Buy Me A Coffee"  width="217px" ></a>
+<a href="https://ko-fi.com/spartacoamadei" target="_blank"><img src="assets/kofi_brandasset/support_me_on_kofi_badge_blue.png" alt="Buy Me A Coffee"  width="217px" align="" ></a>
 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+<img align="right" alt="" src="https://media.giphy.com/media/ve43TyDQ3B4me7d22z/giphy.gif" />
 
 ### Talking about Personal Stuff:
 
