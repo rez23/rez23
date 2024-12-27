@@ -29,7 +29,7 @@ Like My Work?
 
 <a href="https://ko-fi.com/spartacoamadei" target="_blank"><img src="assets/kofi_brandasset/support_me_on_kofi_badge_blue.png" alt="Buy Me A Coffee"  width="217px" align="" ></a>
 
-<img align="right" alt="" src="https://media.giphy.com/media/ve43TyDQ3B4me7d22z/giphy.gif" />
+<img align="right" alt="" src="https://media.giphy.com/media/ve43TyDQ3B4me7d22z/giphy.gif" width=350/>
 
 ### Talking about Personal Stuff:
 
