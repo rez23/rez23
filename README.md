@@ -16,7 +16,7 @@ Feel free to connect with me @rez23 or via [email](spartaco.amadei@outlook.it) f
 
 Joined Github **7** years ago.
 
-Since then I pushed **72**+ commits, opened **11**+ issues, submitted **0**+ pull requests, created **1**+ gists and contributed to **1**+ public repositories.
+Since then I pushed **76**+ commits, opened **11**+ issues, submitted **0**+ pull requests, created **1**+ gists and contributed to **1**+ public repositories.
 
 <hr>
 <h3 align="left">✨ Random Dev Quote::</h3>
