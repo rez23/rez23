@@ -2,40 +2,29 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://x.com/init__1)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/spartaco-amadei-953880152/)
 [![Instagram Badge](https://img.shields.io/badge/GitLab%20CI-FC6D26?logo=gitlab&logoColor=fff)](https://gitlab.com/init_1)
-
-I’m a full-stack developer with several years of experience across different languages and tools. I’ve always loved writing code for the pure joy of finding new solutions to new problems—and comparing those solutions with others through the incredible collective intelligence of the internet.
+### WhoAm I
+Hi, I’m a full-stack developer with several years of experience across different languages and tools. I’ve always loved writing code for the pure joy of finding new solutions to new problems—and comparing those solutions with others through the incredible collective intelligence of the internet.
 
 Research and innovation in computer science have helped make our society more culturally advanced than ever. I have always believed that software should be free and open.
 
 Thanks to the global machine that is the modern internet, access to knowledge is now almost universal and virtually limitless—for everyone (or at least for everyone willing to learn).
 
 As you explore my profile, you’ll find this belief reflected in every project I build.
-Joined Github **7** years ago.
 
-Since then I pushed **133**+ commits, opened **11**+ issues, submitted **0**+ pull requests, created **1**+ gists and contributed to **1**+ public repositories.
-
-<hr>
-<h3 align="left">✨ Random Dev Quote::</h3>
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
-</p>
-<hr>
-
-### WhoAm I
-
-I am a full-stack developer with many years of experience. I am a firm 
-
+###  Contact me
 - 💬 &nbsp; Ask me anything [here](https://github.com/rez23/rez23/issues/2)! I am happy to help.
 - 📫 &nbsp; Reach me out via [mail](spartaco.amadei@outlook.it).
 
-### My Absolute Favorites:
+### Something more about me
 
-- 💻 &nbsp; I love exploring new technologies and building cool stuff.
-- 📰 &nbsp; Reading, writing & watching Tech Stuff whenever possible.
-- 🍕 &nbsp; Meetups & Tech Events & Hackathons.
+- :it: &nbsp; I am Italian, from Rome
+- :guitar: &nbsp; I am a guitar player.
+- :sunglasses: &nbsp; I love exploring new technologies and building cool stuff.
+- :book: &nbsp; I love Rust programming language
+- :partying_face: &nbsp; I am a syndicalist for USB 
 
-### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+### My skills 
+[![My Skills](https://skillicons.dev/icons?i=rust,cpp,c,python,js,ts)](https://skillicons.dev)
 ### Projects and Dev Stuffs:
 
 <details>
@@ -50,9 +39,17 @@ I am a full-stack developer with many years of experience. I am a firm
   <summary><b>☄️ Github Streaks</b></summary>
 
   <br />
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rez23&theme=highcontrast" alt="GitHub Streak" /></a></details>
-<div align="center">
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rez23&theme=highcontrast" alt="GitHub Streak" /></a>
+</details>
 
-### Show some ❤️ by starring some of the repositories!
+###### Since I joined GitHub, **8** years ago:
+- ###### I pushed **382** commits
+- ###### I opened **12** issues
+- ###### I submitted **1** pull requests
+- ###### I created **2** gists
+- ###### And I contributed to **1** public repositories.
+
+<div align="center">
+ Show some ❤️ by starring some repositories!
 
 </div>
