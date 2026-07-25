@@ -42,12 +42,12 @@ As you explore my profile, you’ll find this belief reflected in every project 
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rez23&theme=highcontrast" alt="GitHub Streak" /></a>
 </details>
 
-###### Since I joined GitHub, **{{ ACCOUNT_AGE }}** years ago:
-- ###### I pushed **{{ COMMITS }}** commits
-- ###### I opened **{{ ISSUES }}** issues
-- ###### I submitted **{{ PULL_REQUESTS }}** pull requests
-- ###### I created **{{ GISTS }}** gists
-- ###### And I contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories.
+###### 🚀 Since I joined GitHub **{{ ACCOUNT_AGE }}** years ago:
+- 🧠 I pushed **{{ COMMITS }}** commits
+- 🐞 I opened **{{ ISSUES }}** issues
+- 🔀 I submitted **{{ PULL_REQUESTS }}** pull requests
+- ✍️ I created **{{ GISTS }}** gists
+- 🌍 I contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories
 
 <div align="center">
  Show some ❤️ by starring some repositories!
