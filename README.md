@@ -1,19 +1,15 @@
-## Hey there 👋, I'm [Spartaco!](https://github.com/rez23/)
-
+#  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F77928&vCenter=true&width=499&lines=Welcome+to+my+GitHub+coders!" alt="Typing SVG" /></a>
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://x.com/init__1)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/spartaco-amadei-953880152/)
 [![Instagram Badge](https://img.shields.io/badge/GitLab%20CI-FC6D26?logo=gitlab&logoColor=fff)](https://gitlab.com/init_1)
 
-### Welcome <span class="text-left" style='display:inline-block; vertical-align:middle; text-align:left;'><img src="https://media.giphy.com/media/MYI6NK4JOGpOzOriEg/giphy.gif" width=130 /></span> !
+I’m a full-stack developer with several years of experience across different languages and tools. I’ve always loved writing code for the pure joy of finding new solutions to new problems—and comparing those solutions with others through the incredible collective intelligence of the internet.
 
-![](https://hit.yhype.me/github/profile?user_id=30680354)
+Research and innovation in computer science have helped make our society more culturally advanced than ever. I have always believed that software should be free and open.
 
-I am a Full Stack Developer of many years of experience, with the firm conviction that the Open Sources will make the world better. 🚀
+Thanks to the global machine that is the modern internet, access to knowledge is now almost universal and virtually limitless—for everyone (or at least for everyone willing to learn).
 
-I'm an explorer of new tech, an avid learner, and I search to stay my skills up to date with the last technogiels standard and tools. When I'm not in code, I play music. I am a guitarist a singer and a DJ.
-
-Feel free to connect with me @rez23 or via [email](spartaco.amadei@outlook.it) for all things tech or just to say hello!. 🌟
-
+As you explore my profile, you’ll find this belief reflected in every project I build.
 Joined Github **7** years ago.
 
 Since then I pushed **133**+ commits, opened **11**+ issues, submitted **0**+ pull requests, created **1**+ gists and contributed to **1**+ public repositories.
@@ -25,16 +21,10 @@ Since then I pushed **133**+ commits, opened **11**+ issues, submitted **0**+ pu
 </p>
 <hr>
 
-Like My Work?
+### WhoAm I
 
-<a href="https://ko-fi.com/spartacoamadei" target="_blank"><img src="assets/kofi_brandasset/support_me_on_kofi_badge_blue.png" alt="Buy Me A Coffee"  width="217px" align="" ></a>
+I am a full-stack developer with many years of experience. I am a firm 
 
-<img align="right" alt="" src="https://media.giphy.com/media/ve43TyDQ3B4me7d22z/giphy.gif" width=300/>
-
-### Talking about Personal Stuff:
-
-- 🛠 &nbsp; I’m currently working with JS, TS, C and C++.
-- 🚀 &nbsp; I’m currently exploring ML, Gen AI, LLMs, etc.
 - 💬 &nbsp; Ask me anything [here](https://github.com/rez23/rez23/issues/2)! I am happy to help.
 - 📫 &nbsp; Reach me out via [mail](spartaco.amadei@outlook.it).
 
@@ -45,16 +35,7 @@ Like My Work?
 - 🍕 &nbsp; Meetups & Tech Events & Hackathons.
 
 ### Languages and Tools:
-<code><img height="27" src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" alt="c"></code>
-<code><img height="27" src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white" alt="cpp"></code>
-<code><img height="27" src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" alt="html"></code>
-<code><img height="27" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" alt="JavaScript"></code>
-<code><img height="27" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" alt="TypeScript"></code>
-<code><img height="27" src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white" alt="Kotlin"></code>
-<code><img height="27" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python"></code>
-<code><img height="27" src="https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white" alt="Rust"></code>
-<code><img height="27" src="https://img.shields.io/badge/Ruby-%23CC342D.svg?&logo=ruby&logoColor=white" alt="Ruby"></code>
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 ### Projects and Dev Stuffs:
 
 <details>
@@ -69,11 +50,7 @@ Like My Work?
   <summary><b>☄️ Github Streaks</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=iampavangandhi&hide_border=true" />
-</details>
-
-#
-
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rez23&theme=highcontrast" alt="GitHub Streak" /></a></details>
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
