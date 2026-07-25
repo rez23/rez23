@@ -5,7 +5,7 @@
 [![GitLab Badge](https://img.shields.io/badge/-GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/init_1)  
 Hi, visitors. Let me introduce myself.
 I’m a full-stack developer with several years of experience across different languages and tools. I’ve always loved
-writing code for the pure joy of finding new solutions to new problems—and comparing those solutions with others through
+writing code for the pure joy of finding new solutions to new problems and comparing those solutions with others through
 the incredible collective intelligence of the internet.
 
 Research and innovation in computer science have helped make our society more culturally advanced than ever. I have
