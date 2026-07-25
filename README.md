@@ -18,7 +18,7 @@ As you explore my profile, you’ll find this belief reflected in every project 
 ### Something more about me
 
 - :pizza: &nbsp; I am Italian, from Rome
-- :guitar: &nbsp; I am a guitar player.
+- :guitar: &nbsp; I am a guitar player and a signer.
 - :sunglasses: &nbsp; I love exploring new technologies and building cool stuff.
 - :book: &nbsp; I love Rust programming language
 - :partying_face: &nbsp; I am a syndicalist for USB 
@@ -43,7 +43,7 @@ As you explore my profile, you’ll find this belief reflected in every project 
 </details>
 
 ###### 🚀 Since I joined GitHub **8** years ago:
-- 🧠 I pushed **386** commits
+- 🧠 I pushed **388** commits
 - 🐞 I opened **12** issues
 - 🔀 I submitted **1** pull requests
 - ✍️ I created **2** gists
