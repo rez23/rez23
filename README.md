@@ -1,9 +1,9 @@
 #  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F77928&vCenter=true&width=499&lines=Welcome+to+my+GitHub+coders!" alt="Typing SVG" /></a>
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://x.com/init__1)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/spartaco-amadei-953880152/)
-[![Instagram Badge](https://img.shields.io/badge/GitLab%20CI-FC6D26?logo=gitlab&logoColor=fff)](https://gitlab.com/init_1)
-### WhoAm I
-Hi, I’m a full-stack developer with several years of experience across different languages and tools. I’ve always loved writing code for the pure joy of finding new solutions to new problems—and comparing those solutions with others through the incredible collective intelligence of the internet.
+[![Instagram Badge](https://img.shields.io/badge/GitLab%20CI-FC6D26?logo=gitlab&logoColor=fff)](https://gitlab.com/init_1)  
+Hi, visitors. Let me introduce myself.   
+I’m a full-stack developer with several years of experience across different languages and tools. I’ve always loved writing code for the pure joy of finding new solutions to new problems—and comparing those solutions with others through the incredible collective intelligence of the internet.
 
 Research and innovation in computer science have helped make our society more culturally advanced than ever. I have always believed that software should be free and open.
 
@@ -17,7 +17,7 @@ As you explore my profile, you’ll find this belief reflected in every project 
 
 ### Something more about me
 
-- :it: &nbsp; I am Italian, from Rome
+- :pizza: &nbsp; I am Italian, from Rome
 - :guitar: &nbsp; I am a guitar player.
 - :sunglasses: &nbsp; I love exploring new technologies and building cool stuff.
 - :book: &nbsp; I love Rust programming language
@@ -43,7 +43,7 @@ As you explore my profile, you’ll find this belief reflected in every project 
 </details>
 
 ###### 🚀 Since I joined GitHub **8** years ago:
-- 🧠 I pushed **384** commits
+- 🧠 I pushed **386** commits
 - 🐞 I opened **12** issues
 - 🔀 I submitted **1** pull requests
 - ✍️ I created **2** gists
