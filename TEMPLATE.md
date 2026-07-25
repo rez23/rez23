@@ -2,8 +2,8 @@
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://x.com/init__1)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/spartaco-amadei-953880152/)
-[![Instagram Badge](https://img.shields.io/badge/GitLab%20CI-FC6D26?logo=gitlab&logoColor=fff)](https://gitlab.com/init_1)  
-Hi, visitors. Let me introduce myself.   
+[![GitLab Badge](https://img.shields.io/badge/-GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/init_1)  
+Hi, visitors. Let me introduce myself.
 I’m a full-stack developer with several years of experience across different languages and tools. I’ve always loved
 writing code for the pure joy of finding new solutions to new problems—and comparing those solutions with others through
 the incredible collective intelligence of the internet.
